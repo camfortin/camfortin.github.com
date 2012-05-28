@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://camfortin.github.com/welcome</loc>
+        <lastmod>2012-05-27T22:57:27-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://camfortin.github.com/blog/archives/</loc>
-        <lastmod>2012-05-27T22:37:11-07:00</lastmod>
+        <lastmod>2012-05-27T22:57:27-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://camfortin.github.com/contact/</loc>
+        <lastmod>2012-05-27T22:57:20-07:00</lastmod>
     </url>
     <url>
         <loc>http://camfortin.github.com/</loc>
-        <lastmod>2012-05-27T22:37:11-07:00</lastmod>
+        <lastmod>2012-05-27T22:57:27-07:00</lastmod>
     </url>
 </urlset>
