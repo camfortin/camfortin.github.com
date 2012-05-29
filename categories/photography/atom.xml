@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[cam fortin's notes]]></title>
-  <link href="http://camfortin.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: photography | cam fortin's notes]]></title>
+  <link href="http://camfortin.github.com//categories/photography/atom.xml" rel="self"/>
   <link href="http://camfortin.github.com/"/>
   <updated>2012-05-28T20:17:57-07:00</updated>
   <id>http://camfortin.github.com/</id>
@@ -18,20 +18,9 @@
     <link href="http://camfortin.github.com/foggy-san-francisco"/>
     <updated>2012-05-28T18:28:00-07:00</updated>
     <id>http://camfortin.github.com/foggy-san-francisco</id>
-    <content type="html"><![CDATA[<p>Fog can make old scenes completely new and dynamic. Here are some of my favorite photos I&#8217;ve taken of San Francisco in the fog.</p>
+    <content type="html"><![CDATA[<p>Fog can make old scenes completely new and dynamic. Here are some of my favorite photos I've taken of San Francisco in the fog.</p>
 
 <p><a href="http://www.flickr.com/photos/friendshipgoodtimes/7246698618/" title="Foggy Golden Gate Bridge and Ship by camfortin, on Flickr"><img src="http://farm8.staticflickr.com/7236/7246698618_1d63aea1d5_b.jpg" width="100%" alt="Foggy Golden Gate Bridge and Ship"></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[welcome]]></title>
-    <link href="http://camfortin.github.com/welcome"/>
-    <updated>2012-05-27T22:52:00-07:00</updated>
-    <id>http://camfortin.github.com/welcome</id>
-    <content type="html"><![CDATA[<p>welcome to cam&#8217;s blog</p>
-
-<p>so nice to have you here</p>
 ]]></content>
   </entry>
   
